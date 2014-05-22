@@ -10,4 +10,6 @@ Spawn Restrict - Restricts certain weapons from being used in spawn. It can prev
 
 Sentry Tools - Lets you modify the damage and knockback of sentries.  
 
-Addcond - Necessary to have to use the buffs on certain maps like surf_torrent and surf_underearth_v2.
+Addcond - Necessary to have to use the buffs on certain maps like surf_torrent and surf_underearth_v2.  
+
+The cfg folder contains map configs for the spawn restrict plugin. They will disable various weapons that are abused on those maps.
